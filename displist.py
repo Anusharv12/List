@@ -1,4 +1,4 @@
-# List
+
 '''1)Write a program to create a list and display it. 
 Input format:
 Input consist of n+1 integers
